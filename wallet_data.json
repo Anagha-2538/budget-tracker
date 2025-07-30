@@ -1,0 +1,14 @@
+[
+    {
+        "type": "Credit",
+        "category": "salary",
+        "amount": 1000000.0,
+        "date": "2025-07-13 19:48:55"
+    },
+    {
+        "type": "Debit",
+        "category": "shopping",
+        "amount": 2000.0,
+        "date": "2025-07-13 19:49:16"
+    }
+]
