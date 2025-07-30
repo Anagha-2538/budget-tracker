@@ -1,14 +1,3 @@
-# #TODO: 
-# # 1. minimum balance and alert 
-# # 2. updating regular categories option(view)
-# # 3. add a calender and months segregation
-# # 4. improve the UI(themes)
-# # 5. Database connection
-# # 6. multiple users(lo)
-# # TODO: integrate my project with real bank account to create publishable and scalable app
-
-
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 from datetime import datetime
